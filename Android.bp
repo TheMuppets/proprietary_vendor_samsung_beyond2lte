@@ -553,7 +553,7 @@ cc_prebuilt_binary {
                 "libhardware_legacy",
                 "libcutils",
                 "libssl",
-                "libcrypto",
+                "libcrypto-tm",
                 "libwrappergps",
                 "libandroid_net",
                 "libz",
